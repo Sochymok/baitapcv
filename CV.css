@@ -1,0 +1,24 @@
+.header {
+    padding: 20px;
+    text-align: center;
+  }
+.head-container {
+    display: flex;
+    border: 5px solid #b08cf3;
+    padding: 4px;
+}
+.head-items-avatar {
+    margin: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    float: left;
+
+}
+.head-items-infor {
+    margin: 20px;
+    min-height: 40px;
+    float: left;
+    text-align: left;
+    padding-left: 50px;
+}
